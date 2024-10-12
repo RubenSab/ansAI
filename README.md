@@ -35,4 +35,4 @@ while in `config.json` write your desided news folder path in `"news_folder_path
 
 # Usage
 - make sure to have your virtual environment activated if you installed the required dependencies into it
-- run ansAI by writing `python3 ansAI.pt`
+- run ansAI by writing `python3 ansAI.py`
