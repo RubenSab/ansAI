@@ -2,9 +2,9 @@
     "url": "https://www.ansa.it",
     "root_url": "https://www.ansa.it",
     "get_only_today_news": "True",
-    "news_folder_path": "/home/ruben/Obsidian/BRAIN/news",
+    "news_folder_path": "",
     "ai_model_name": "gemini-1.5-pro",
-    "api_key": "AIzaSyAjJ08yBh_J7BZXAff8YIp7AFH8iSyw0RM",
+    "api_key": "",
     "add_translation": "True",
     "translation_language": "English"
 }
