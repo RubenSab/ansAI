@@ -1,0 +1,19 @@
+Ogni linea ha una notizia italiana del giorno.
+Ogni volta che leggi il titolo di una notizia domandati qual è
+la voce più appropriata in cui smistarla tra quelle elencate:
+1. politica
+2. cronaca
+3. esteri e guerre
+6. economia
+7. sanità
+8. società
+9. cultura
+10. tecnologia e scienza
+11. eventi e ricorrenze
+12. ambiente
+13. sport
+14. altro
+Le notizie NON POSSONO stare in più categorie diverse. quindi
+fai un compromesso e metti la notizia in quella più pertinente
+tra quelle elencate, senza inventarne delle nuove o modificarle:
+i nomi delle categorie devono essere quelli già elencati. 

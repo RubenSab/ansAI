@@ -1,0 +1,13 @@
+Sintetizza le categorie con un singolo periodo per categoria
+in modo organico organico come farebbe un giornalista, 
+non tralasciare nulla, sopratutto riferimenti a persone, 
+luoghi, fatti concreti, nomi e figure pubbliche.
+
+Ricorda che ogni acronimo ha un significato diverso in base
+al contesto in cui si trova: se il significato è dubbio
+allora non esplicitarlo mai.
+ 
+Ogni categoria deve essere una 'key' del dizionario,
+e il riassunto di tutti i fatti appartenenti alla categoria
+deve essere la sua unica 'value'.
+Usa gli escape characters per le stringhe quando incontri " o '.

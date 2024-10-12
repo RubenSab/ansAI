@@ -1,0 +1,3 @@
+traduci questa tabella markdown in {language},
+non aggiungere un titolo o altro, restituisci solo
+la tabella e nient'altro:
