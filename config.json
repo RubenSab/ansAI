@@ -2,9 +2,9 @@
     "url": "https://www.ansa.it",
     "root_url": "https://www.ansa.it",
     "get_only_today_news": "True",
-    "news_folder_path": "",
+    "news_folder_path": "PUT_YOUR_NEWS_FOLDER_PATH_HERE",
     "ai_model_name": "gemini-1.5-pro",
-    "api_key": "",
+    "api_key": "PUT_YOUR_API_KEY_HERE",
     "add_translation": "True",
     "translation_language": "English"
 }
